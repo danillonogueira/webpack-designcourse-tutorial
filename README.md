@@ -3,7 +3,7 @@ Webpack 4 tutorial from YouTube Channel [DesignCourse](https://www.youtube.com/c
 ## Running the project
 1 - Clone the project
 ~~~~
-git clone https://github.com/danillonogueira/webpack-designcourse-tutorial.git
+$ git clone https://github.com/danillonogueira/webpack-designcourse-tutorial.git
 ~~~~
 2 - Navigate to project directory</br>
 3 - Install project dependencies
