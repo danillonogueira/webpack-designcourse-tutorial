@@ -8,10 +8,10 @@ git clone https://github.com/danillonogueira/webpack-designcourse-tutorial.git
 2 - Navigate to project directory</br>
 3 - Install project dependencies
 ~~~~
-npm install
+$ npm install
 ~~~~
 4 - Start server
 ~~~~
-npm start
+$ npm start
 ~~~~
 5 - Project will be available in port 8080.
